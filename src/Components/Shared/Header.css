@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url('/public/images/more/15.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70px;
+}

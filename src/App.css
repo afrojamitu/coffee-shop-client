@@ -1,0 +1,15 @@
+.banner-bg{
+    background-image: url('../public/images/more/6.jpeg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.transparent-left-bg{
+    background-image: url('https://i.ibb.co/bm6STBc/1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: fit-content;
+}
